@@ -1,0 +1,117 @@
+[
+  {
+  "tvg_id": "170",
+  "tvg-name":"Das Erste HD",
+  "tvg-icon":"das_erste_hd",
+  "tvg-url": "rtp://87.141.215.251@232.0.20.35:10000"
+  },
+  {
+  "tvg_id": "156",
+  "tvg-name":"ZDF HD",
+  "tvg-icon":"zdf_hd",
+  "tvg-url": "rtp://87.141.215.251@232.0.20.234:10000"
+  },
+  {
+  "tvg_id": "96",
+  "tvg-name":"RTL SD",
+  "tvg-icon":"rtl_sd",
+  "tvg-url": "rtp://87.141.215.251@232.0.10.135:10000"
+  },
+  {
+  "tvg_id": "94",
+  "tvg-name":"Sat.1 SD",
+  "tvg-icon":"sat_eins.sd",
+  "tvg-url": "rtp://87.141.215.251@232.0.10.146:10000"
+  },
+  {
+  "tvg_id": "186",
+  "tvg-name":"RTL Zwei SD",
+  "tvg-icon":"rtl_ii_sd",
+  "tvg-url": "rtp://87.141.215.251@232.0.10.140:10000"
+  },
+  {
+  "tvg_id": "6",
+  "tvg-name":"sixx SD",
+  "tvg-icon":"sixx_sd",
+  "tvg-url": "rtp://87.141.215.251@232.0.10.157:10000"
+  },
+  {
+  "tvg_id": "95",
+  "tvg-name":"ProSieben SD",
+  "tvg-icon":"pro_sieben_sd",
+  "tvg-url": "rtp://87.141.215.251@232.0.10.120:10000"
+  },
+  {
+  "tvg_id": "8",
+  "tvg-name":"Kabel Eins SD",
+  "tvg-icon":"kabel_eins_sd",
+  "tvg-url": "rtp://87.141.215.251@232.0.10.82:10000"
+  },
+  {
+  "tvg_id": "97",
+  "tvg-name":"3sat HD",
+  "tvg-icon":"drei_sat_HD",
+  "tvg-url": "rtp://87.141.215.251@232.0.20.2:10000"
+  },
+  {
+  "tvg_id": "98",
+  "tvg-name":"VOX SD",
+  "tvg-icon":"vox_sd",
+  "tvg-url": "rtp://87.141.215.251@232.0.10.221:10000"
+  },
+  {
+  "tvg_id": "101",
+  "tvg-name":"Super RTL SD",
+  "tvg-icon":"super_rlt_sd",
+  "tvg-url": "rtp://87.141.215.251@232.0.10.201:10000"
+  },
+  {
+  "tvg_id": "99",
+  "tvg-name":"KiKa HD",
+  "tvg-icon":"kika_hd",
+  "tvg-url": "rtp://87.141.215.251@232.0.20.85:10000"
+  },
+  {
+  "tvg_id": "13",
+  "tvg-name":"TOGGO plus SD",
+  "tvg-icon":"toggo_plus_sd",
+  "tvg-url": "rtp://87.141.215.251@232.0.11.7:10000"
+  },
+  {
+  "tvg_id": "14",
+  "tvg-name":"n-tv SD",
+  "tvg-icon":"ntv_sd",
+  "tvg-url": "rtp://87.141.215.251@232.0.10.111:10000"
+  },
+  {
+  "tvg_id": "15",
+  "tvg-name":"PHOENIX SD",
+  "tvg-icon":"poenix_sd",
+  "tvg-url": "rtp://87.141.215.251@232.0.20.116:10000"
+  },
+  {
+  "tvg_id": "16",
+  "tvg-name":"zdf_neo HD",
+  "tvg-icon":"zdf_neo_hd",
+  "tvg-url": "rtp://87.141.215.251@232.0.20.236:10000"
+  },
+  {
+  "tvg_id": "17",
+  "tvg-name":"ARTE HD",
+  "tvg-icon":"arte_hd",
+  "tvg-url": "rtp://87.141.215.251@232.0.20.10:10000"
+  },
+  {
+  "tvg_id": "18",
+  "tvg-name":"ONE HD",
+  "tvg-icon":"one_hd",
+  "tvg-url": "rtp://87.141.215.251@232.0.20.49:10000"
+  },
+  {
+  "tvg_id": "19",
+  "tvg-name":"ZDFinfo HD",
+  "tvg-icon":"zdfinfo_hd",
+  "tvg-url": "rtp://87.141.215.251@232.0.20.237:10000"
+  },
+  
+]
