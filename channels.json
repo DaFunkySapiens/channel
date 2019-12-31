@@ -102,7 +102,7 @@
   "tvg-url": "rtp://87.141.215.251@232.0.20.10:10000"
   },
   {
-  "tvg_id": "18",
+  "tvg-id": "18",
   "tvg-name":"ONE HD",
   "tvg-icon":"one_hd",
   "tvg-url": "rtp://87.141.215.251@232.0.20.49:10000"
@@ -112,6 +112,6 @@
   "tvg-name":"ZDFinfo HD",
   "tvg-icon":"zdfinfo_hd",
   "tvg-url": "rtp://87.141.215.251@232.0.20.237:10000"
-  },
+  }
   
 ]
